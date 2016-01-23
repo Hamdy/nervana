@@ -1,0 +1,2 @@
+class InvalidNeuronException(Exception):
+    pass
